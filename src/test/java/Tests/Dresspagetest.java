@@ -15,7 +15,7 @@ public class Dresspagetest {
 	Loginpageobject lg;
 	BasePage bp;
 
-	public Dresspagetest123() {
+	public Dresspagetest321() {
 		dp = new Dresspageobject();
 		bp = new BasePage();
 		lg = new Loginpageobject();

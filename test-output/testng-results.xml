@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="15" passed="15">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="83142" started-at="2020-01-08T22:29:30Z" finished-at="2020-01-08T22:30:54Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="83142" started-at="2020-01-08T22:29:30Z" finished-at="2020-01-08T22:30:54Z">
+      <class name="Tests.Loginpagetest">
+        <test-method status="PASS" signature="verifyWomenClick()[pri:0, instance:Tests.Loginpagetest@1a75e76a]" name="verifyWomenClick" is-config="true" duration-ms="5354" started-at="2020-01-08T22:29:31Z" finished-at="2020-01-08T22:29:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWomenClick -->
+        <test-method status="PASS" signature="verifyDress()[pri:0, instance:Tests.Loginpagetest@1a75e76a]" name="verifyDress" duration-ms="163" started-at="2020-01-08T22:29:36Z" finished-at="2020-01-08T22:29:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDress -->
+        <test-method status="PASS" signature="verifyWomenClick()[pri:0, instance:Tests.Loginpagetest@1a75e76a]" name="verifyWomenClick" is-config="true" duration-ms="3043" started-at="2020-01-08T22:29:36Z" finished-at="2020-01-08T22:29:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWomenClick -->
+        <test-method status="PASS" signature="verifyDressTag()[pri:0, instance:Tests.Loginpagetest@1a75e76a]" name="verifyDressTag" duration-ms="2428" started-at="2020-01-08T22:29:39Z" finished-at="2020-01-08T22:29:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDressTag -->
+        <test-method status="PASS" signature="verifyWomenClick()[pri:0, instance:Tests.Loginpagetest@1a75e76a]" name="verifyWomenClick" is-config="true" duration-ms="3097" started-at="2020-01-08T22:29:41Z" finished-at="2020-01-08T22:29:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWomenClick -->
+        <test-method status="PASS" signature="verifyNewsLtr()[pri:0, instance:Tests.Loginpagetest@1a75e76a]" name="verifyNewsLtr" duration-ms="3572" started-at="2020-01-08T22:29:45Z" finished-at="2020-01-08T22:29:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewsLtr -->
+        <test-method status="PASS" signature="verifyWomenClick()[pri:0, instance:Tests.Loginpagetest@1a75e76a]" name="verifyWomenClick" is-config="true" duration-ms="2972" started-at="2020-01-08T22:29:48Z" finished-at="2020-01-08T22:29:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWomenClick -->
+        <test-method status="PASS" signature="verifyTshirt()[pri:0, instance:Tests.Loginpagetest@1a75e76a]" name="verifyTshirt" duration-ms="108" started-at="2020-01-08T22:29:51Z" finished-at="2020-01-08T22:29:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTshirt -->
+        <test-method status="PASS" signature="verifyWomenClick()[pri:0, instance:Tests.Loginpagetest@1a75e76a]" name="verifyWomenClick" is-config="true" duration-ms="3304" started-at="2020-01-08T22:29:51Z" finished-at="2020-01-08T22:29:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWomenClick -->
+        <test-method status="PASS" signature="verifyTshirtTag()[pri:0, instance:Tests.Loginpagetest@1a75e76a]" name="verifyTshirtTag" duration-ms="1994" started-at="2020-01-08T22:29:55Z" finished-at="2020-01-08T22:29:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTshirtTag -->
+        <test-method status="PASS" signature="verifyWomenClick()[pri:0, instance:Tests.Loginpagetest@1a75e76a]" name="verifyWomenClick" is-config="true" duration-ms="2609" started-at="2020-01-08T22:29:57Z" finished-at="2020-01-08T22:29:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWomenClick -->
+        <test-method status="PASS" signature="verifyWomen()[pri:0, instance:Tests.Loginpagetest@1a75e76a]" name="verifyWomen" duration-ms="96" started-at="2020-01-08T22:29:59Z" finished-at="2020-01-08T22:29:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWomen -->
+        <test-method status="PASS" signature="verifyWomenClick()[pri:0, instance:Tests.Loginpagetest@1a75e76a]" name="verifyWomenClick" is-config="true" duration-ms="2454" started-at="2020-01-08T22:29:59Z" finished-at="2020-01-08T22:30:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWomenClick -->
+        <test-method status="PASS" signature="verifyWomenTag()[pri:0, instance:Tests.Loginpagetest@1a75e76a]" name="verifyWomenTag" duration-ms="32" started-at="2020-01-08T22:30:02Z" finished-at="2020-01-08T22:30:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWomenTag -->
+      </class> <!-- Tests.Loginpagetest -->
+      <class name="Tests.Dresspagetest">
+        <test-method status="PASS" signature="verifyClick()[pri:0, instance:Tests.Dresspagetest@5524cca1]" name="verifyClick" is-config="true" duration-ms="2494" started-at="2020-01-08T22:30:02Z" finished-at="2020-01-08T22:30:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyClick -->
+        <test-method status="PASS" signature="verifyDesc()[pri:0, instance:Tests.Dresspagetest@5524cca1]" name="verifyDesc" duration-ms="7151" started-at="2020-01-08T22:30:04Z" finished-at="2020-01-08T22:30:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDesc -->
+        <test-method status="PASS" signature="verifyClick()[pri:0, instance:Tests.Dresspagetest@5524cca1]" name="verifyClick" is-config="true" duration-ms="2792" started-at="2020-01-08T22:30:11Z" finished-at="2020-01-08T22:30:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyClick -->
+        <test-method status="PASS" signature="verifyLSize()[pri:0, instance:Tests.Dresspagetest@5524cca1]" name="verifyLSize" duration-ms="105" started-at="2020-01-08T22:30:14Z" finished-at="2020-01-08T22:30:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLSize -->
+        <test-method status="PASS" signature="verifyClick()[pri:0, instance:Tests.Dresspagetest@5524cca1]" name="verifyClick" is-config="true" duration-ms="3054" started-at="2020-01-08T22:30:14Z" finished-at="2020-01-08T22:30:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyClick -->
+        <test-method status="PASS" signature="verifyMSize()[pri:0, instance:Tests.Dresspagetest@5524cca1]" name="verifyMSize" duration-ms="108" started-at="2020-01-08T22:30:17Z" finished-at="2020-01-08T22:30:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMSize -->
+        <test-method status="PASS" signature="verifyClick()[pri:0, instance:Tests.Dresspagetest@5524cca1]" name="verifyClick" is-config="true" duration-ms="2735" started-at="2020-01-08T22:30:17Z" finished-at="2020-01-08T22:30:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyClick -->
+        <test-method status="PASS" signature="verifyProductCount()[pri:0, instance:Tests.Dresspagetest@5524cca1]" name="verifyProductCount" duration-ms="2749" started-at="2020-01-08T22:30:20Z" finished-at="2020-01-08T22:30:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductCount -->
+        <test-method status="PASS" signature="verifyClick()[pri:0, instance:Tests.Dresspagetest@5524cca1]" name="verifyClick" is-config="true" duration-ms="2292" started-at="2020-01-08T22:30:23Z" finished-at="2020-01-08T22:30:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyClick -->
+        <test-method status="PASS" signature="verifySSize()[pri:0, instance:Tests.Dresspagetest@5524cca1]" name="verifySSize" duration-ms="135" started-at="2020-01-08T22:30:25Z" finished-at="2020-01-08T22:30:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySSize -->
+        <test-method status="PASS" signature="verifyClick()[pri:0, instance:Tests.Dresspagetest@5524cca1]" name="verifyClick" is-config="true" duration-ms="4657" started-at="2020-01-08T22:30:25Z" finished-at="2020-01-08T22:30:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyClick -->
+        <test-method status="PASS" signature="verifyShare()[pri:0, instance:Tests.Dresspagetest@5524cca1]" name="verifyShare" duration-ms="6348" started-at="2020-01-08T22:30:30Z" finished-at="2020-01-08T22:30:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyShare -->
+        <test-method status="PASS" signature="verifyClick()[pri:0, instance:Tests.Dresspagetest@5524cca1]" name="verifyClick" is-config="true" duration-ms="2669" started-at="2020-01-08T22:30:36Z" finished-at="2020-01-08T22:30:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyClick -->
+        <test-method status="PASS" signature="verifyTweet()[pri:0, instance:Tests.Dresspagetest@5524cca1]" name="verifyTweet" duration-ms="5669" started-at="2020-01-08T22:30:39Z" finished-at="2020-01-08T22:30:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTweet -->
+        <test-method status="PASS" signature="verifyClick()[pri:0, instance:Tests.Dresspagetest@5524cca1]" name="verifyClick" is-config="true" duration-ms="2772" started-at="2020-01-08T22:30:45Z" finished-at="2020-01-08T22:30:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyClick -->
+        <test-method status="PASS" signature="verifycart()[pri:0, instance:Tests.Dresspagetest@5524cca1]" name="verifycart" duration-ms="6058" started-at="2020-01-08T22:30:48Z" finished-at="2020-01-08T22:30:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycart -->
+      </class> <!-- Tests.Dresspagetest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
